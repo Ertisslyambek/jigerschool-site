@@ -25,7 +25,7 @@
 
 ## 🔗 Демо
 
-👉 [Открыть сайт на GitHub Pages](https://yourusername.github.io/jigerschool-site)
+👉 [Открыть сайт на GitHub Pages](https://www.jigerschool.kz/)
 
 ## 📫 Контакты разработчика
 
